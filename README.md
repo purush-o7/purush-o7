@@ -95,14 +95,11 @@ A clean foundation for spinning up full-stack projects fast — FastAPI handles 
 
 <div align="center">
 
-<a href="https://github.com/purush-o7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=purush-o7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purush-o7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
+[![Purush's GitHub stats](https://github-readme-stats.vercel.app/api?username=purush-o7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/purush-o7)
 
-<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purush-o7&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/purush-o7)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=purush-o7&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=purush-o7&theme=tokyonight&hide_border=true)](https://github.com/purush-o7)
 
 </div>
 
