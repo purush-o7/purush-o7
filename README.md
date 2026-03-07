@@ -1,10 +1,10 @@
 <!-- Header with capsule-render wave + typing animation -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:414868&height=200&section=header&text=Hey,%20I'm%20Purush!&fontSize=50&fontColor=c0caf5&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20React%20Enthusiast%20%7C%203D%20Web%20Explorer&descAlignY=58&descSize=18&descColor=7aa2f7&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Hey%2C%20I'm%20Purush!&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20React%20%7C%20Three.js%20%7C%203D%20Web&descAlignY=58&descSize=20&descColor=ffffff&animation=fadeIn)
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&multiline=false&width=600&lines=Building+interactive+web+experiences+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript+%7C+Three.js;3D+graphics+on+the+web+%F0%9F%8C%8C;495%2B+contributions+and+counting+%F0%9F%8E%AF;Learning+by+building%2C+breaking%2C+rebuilding+%F0%9F%94%A5)](https://github.com/purush-o7)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+interactive+web+experiences+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript+%7C+Three.js;3D+graphics+on+the+web+%F0%9F%8C%8C;495%2B+contributions+and+counting+%F0%9F%8E%AF;Learning+by+building%2C+breaking%2C+rebuilding+%F0%9F%94%A5)](https://github.com/purush-o7)
 
 <!-- Social badges row -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/purush34)
@@ -226,6 +226,6 @@ I'm always up for a chat about React internals, 3D graphics on the web, or build
 
 ⭐ **If you find my projects useful, consider giving them a star!** ⭐
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:414868,50:24283b,100:1a1b27&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer)
 
 </div>
