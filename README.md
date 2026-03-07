@@ -95,9 +95,12 @@ A clean foundation for spinning up full-stack projects fast — FastAPI handles 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=purush-o7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Purush's GitHub Stats" />
+<a href="https://github.com/purush-o7">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=purush-o7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purush-o7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purush-o7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<br/>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=purush-o7&theme=tokyonight&hide_border=true)
 
