@@ -99,7 +99,7 @@ A clean foundation for spinning up full-stack projects fast — FastAPI handles 
 
 <br/>
 
-[![Purush's GitHub stats](https://github-readme-stats.vercel.app/api?username=purush-o7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)](https://github.com/purush-o7)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purush-o7&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/purush-o7)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=purush-o7&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
