@@ -1,12 +1,10 @@
-<!-- Header with capsule-render wave -->
+<!-- Header -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=speech&color=gradient&customColorList=24&height=180&section=header&text=Hey%2C+I+am+Purush!&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Full-Stack+Dev+%7C+React+%7C+Three.js+%7C+3D+Web&descAlignY=58&descSize=18&descColor=e0e0ff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=header&text=Hey%2C+I+am+Purush!&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Full-Stack+Dev+%7C+React+%7C+Three.js+%7C+3D+Web&descAlignY=58&descSize=18&descColor=e0e0ff&animation=fadeIn)
 
-<!-- Typing animation using herokuapp -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+interactive+web+experiences;React+%7C+Next.js+%7C+TypeScript+%7C+Three.js;3D+graphics+on+the+web;495%2B+contributions+and+counting;Learning+by+building%2C+breaking%2C+rebuilding)](https://github.com/purush-o7)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=650&lines=I+taught+useReducer+through+a+rocket+launch;I+built+GLSL+shaders+that+run+in+a+browser+tab;13+hooks%2C+each+with+its+own+story;A+gym+tracker+with+RLS+on+every+DB+table;Building+things+that+make+people+go+whoa)](https://github.com/purush-o7)
 
-<!-- Social badges row -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/purush34)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-6136-9680)
 [![GitHub followers](https://img.shields.io/github/followers/purush-o7?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/purush-o7)
@@ -14,33 +12,25 @@
 
 </div>
 
-<!-- Capsule divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:24283b&height=2&section=header" width="100%"/>
-
 ---
-
 ## 🚀 About Me
 
-I'm a passionate full-stack developer who loves building **interactive, educational, and visually stunning web experiences**. I specialize in the React ecosystem and have a deep love for 3D web graphics, performance optimization, and developer tooling.
+I build things that sit at the overlap of **developer education**, **3D web graphics**, and **production full-stack apps**. My work has a specific angle: most tutorials show you *what* an API does — I care about the *why*, the mental model, the moment it finally clicks.
 
-- 🔭 Currently building apps with **Next.js**, **React**, **Supabase**, and **Three.js / React Three Fiber**
-- 🧠 Obsessed with making complex concepts **intuitive and interactive**
-- 🎯 495+ contributions in the last year and counting
-- 🌐 Exploring the intersection of **3D graphics** and **modern web development**
-- 💡 I believe in learning by doing — every project I build teaches something new
+- 🎯 Built a platform that teaches **13 React hooks**, each wrapped in its own world — `useReducer` is a rocket launch, `useContext` is a spy network, `useEffect` is a DJ booth
+- 🌌 Built an **R3F learning platform** that goes from scene basics all the way to custom **GLSL vertex/fragment shaders**, galaxy generators, and physics with Rapier — all interactive in the browser
+- 💪 Shipped a full gym tracker with **12 Supabase migrations**, RLS policies on every table, a partner system, and a public streak leaderboard
+- 🔥 526 total contributions since Sep 2023 — I build consistently, not in bursts
+- 🧩 I think the best way to understand a concept is to **break it in a controlled environment** — every project I ship has live, interactive playgrounds
 
 ---
-
 ## 🛠️ Tech Stack
 
-<!-- Skill icons grid - compact and always renders -->
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs,python,fastapi,postgres,supabase,nodejs,git,github,vscode,vercel,figma&perline=8)](https://skillicons.dev)
 
 </div>
-
-<br/>
 
 <details>
 <summary><b>🔍 Full Stack Breakdown</b></summary>
@@ -65,7 +55,7 @@ I'm a passionate full-stack developer who loves building **interactive, educatio
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-**Tools & Ecosystem**
+**Tools**
 
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
@@ -74,143 +64,83 @@ I'm a passionate full-stack developer who loves building **interactive, educatio
 </details>
 
 ---
-
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
 
-<!-- Streak stats - reliable -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=purush-o7&theme=tokyonight&hide_border=true)](https://github.com/purush-o7)
 
 <br/>
 
-<!-- Contribution activity graph -->
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=purush-o7&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
 ---
-
 ## 🌟 Featured Projects
 
-<!-- react-hooks-visualized -->
-<table>
-<tr>
-<td width="60%">
-
 ### 🎣 [react-hooks-visualized](https://github.com/purush-o7/react-hooks-visualized)
-> *Interactive, themed learning platform for React Hooks & TanStack Query*
 
-Every hook is taught through a **real-world metaphor** — spy networks, space launches, DJ booths — so concepts *stick*, not just the syntax. Live playgrounds let you break things in real-time.
+> Most React docs tell you *what* `useReducer` does. This site makes you *feel* it — you're launching a rocket and every `dispatch` is a mission command.
 
-**Built with:**
+The platform covers **5 JavaScript fundamentals** first (closures, immutability, the render cycle, async JS, `this` & arrows) — because hooks don't make sense without the foundation. Then **13 hooks**, each with its own themed world:
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
-![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![TanStack](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
+| Hook | Theme | The mental model |
+|------|-------|------------------|
+| `useReducer` | 🚀 Space Launch | Every dispatch is a mission command |
+| `useContext` | 🕵️ Spy Network | Shared secrets, no prop drilling |
+| `useEffect` | 🎧 DJ Booth | Side effects, cleanup, dependency array |
+| `useRef` | 🎤 Recording Studio | Values that survive renders without causing them |
+| `useTransition` | 🏥 Emergency Room | Keeping the UI alive under load |
+| `useDeferredValue` | 🚉 Train Station | Input stays fast, heavy render waits |
+| + 7 more | — | Each with playgrounds you can break |
+
+**Stack:** Next.js 16 · React 19 · TypeScript · TanStack Query v5 · Tailwind v4 · Motion
 
 [![View Repo](https://img.shields.io/badge/View_Repo-%23181717?style=for-the-badge&logo=github)](https://github.com/purush-o7/react-hooks-visualized)
 
-</td>
-<td width="40%" align="center">
-
-[![react-hooks-visualized](https://github-readme-stats.vercel.app/api/pin/?username=purush-o7&repo=react-hooks-visualized&theme=tokyonight&hide_border=true)](https://github.com/purush-o7/react-hooks-visualized)
-
-</td>
-</tr>
-</table>
-
-<!-- r3f-visualized -->
-<table>
-<tr>
-<td width="60%">
-
+---
 ### 🌌 [r3f-visualized](https://github.com/purush-o7/r3f-visualized)
-> *React Three Fiber learning platform — from Three.js fundamentals to production-ready 3D*
 
-Every concept has a **live, interactive 3D demo** in the browser. Covers scene basics → custom shaders → physics with Rapier → post-processing → deployment.
+> A full curriculum from `new THREE.Scene()` to writing custom GLSL shaders — with a live, interactive 3D scene on every single page.
 
-**Built with:**
+20+ topics across three tiers. Every page has a 3D demo you can rotate, zoom, and tweak with **Leva controls** in real-time. The advanced section goes deep — custom `ShaderMaterial` with vertex/fragment shaders, shader recipes (galaxy generator, hologram effect, procedural terrain, raging sea), `EffectComposer` post-processing (bloom, SSAO, vignette), particles, and physics via `@react-three/rapier`.
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
-![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_v4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+**Path:** Scene pipeline → PBR materials → R3F hooks (`useFrame`, `useThree`, `useLoader`) → GLTF loaders → Custom GLSL shaders → Post-processing → Particles → Physics → Production
+
+**Stack:** Next.js 16 · React Three Fiber · Three.js · Drei · Rapier · Leva · Tailwind v4 · Shiki
 
 [![View Repo](https://img.shields.io/badge/View_Repo-%23181717?style=for-the-badge&logo=github)](https://github.com/purush-o7/r3f-visualized)
+[![Live Site](https://img.shields.io/badge/Live_Site-r3f--visualized.vercel.app-7aa2f7?style=for-the-badge&logo=vercel&logoColor=white)](https://r3f-visualized.vercel.app)
 
-</td>
-<td width="40%" align="center">
-
-[![r3f-visualized](https://github-readme-stats.vercel.app/api/pin/?username=purush-o7&repo=r3f-visualized&theme=tokyonight&hide_border=true)](https://github.com/purush-o7/r3f-visualized)
-
-</td>
-</tr>
-</table>
-
-<!-- rep-tracker -->
-<table>
-<tr>
-<td width="60%">
-
+---
 ### 💪 [rep-tracker](https://github.com/purush-o7/rep-tracker)
-> *Mobile-first gym tracker — log workouts, build streaks, track progress*
 
-120+ exercise library, routine management, public streak leaderboard, partner system, and progress charts. Full Supabase PostgreSQL schema with RLS on every table.
+> A gym tracker I actually use — built the way I'd want a real product to work, not a tutorial project.
 
-**Built with:**
+120+ exercise library, Push/Pull/Legs routines, a "Today" page for daily session planning, Recharts dashboards, and a partner system where you can log workouts on behalf of your gym partner. The backend is Supabase with **12 sequential migrations** — enums, RLS policies, triggers, indexes, storage buckets, views, and security hardening — all version-controlled and reproducible.
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=flat-square&logo=chart.js&logoColor=white)
+**Technical depth:** RLS on every table, recursive RLS fix, `(select auth.uid())` optimisation, `weekly_activity` + `muscle_group_activity` DB views, Server Actions for all mutations (zero raw API routes), Zod schemas for every form.
+
+**Stack:** Next.js 16 · Supabase · PostgreSQL · shadcn/ui · Recharts · React Hook Form · Zod
 
 [![View Repo](https://img.shields.io/badge/View_Repo-%23181717?style=for-the-badge&logo=github)](https://github.com/purush-o7/rep-tracker)
 
-</td>
-<td width="40%" align="center">
-
-[![rep-tracker](https://github-readme-stats.vercel.app/api/pin/?username=purush-o7&repo=rep-tracker&theme=tokyonight&hide_border=true)](https://github.com/purush-o7/rep-tracker)
-
-</td>
-</tr>
-</table>
-
-<!-- fastapi-starter-kit -->
-<table>
-<tr>
-<td width="60%">
-
+---
 ### ⚡ [fastapi-starter-kit](https://github.com/purush-o7/fastapi-starter-kit)
-> *Production-ready starter kit bridging FastAPI backends with Next.js frontends*
 
-A clean foundation for full-stack projects — FastAPI for backend logic, Next.js for a polished performant frontend.
+> A clean starting point for projects that need a Python backend and a TypeScript frontend — without the boilerplate tax.
 
-**Built with:**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+**Stack:** FastAPI · Next.js · TypeScript
 
 [![View Repo](https://img.shields.io/badge/View_Repo-%23181717?style=for-the-badge&logo=github)](https://github.com/purush-o7/fastapi-starter-kit)
 
-</td>
-<td width="40%" align="center">
-
-[![fastapi-starter-kit](https://github-readme-stats.vercel.app/api/pin/?username=purush-o7&repo=fastapi-starter-kit&theme=tokyonight&hide_border=true)](https://github.com/purush-o7/fastapi-starter-kit)
-
-</td>
-</tr>
-</table>
-
 ---
-
 ## 💬 Let's Connect
 
 <div align="center">
 
-I'm always up for a chat about React internals, 3D graphics on the web, or building things that make people go *"whoa"*. Feel free to reach out!
+I'm always up for a chat about React internals, writing GLSL shaders, Supabase RLS gotchas, or building things people actually want to use.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/purush34)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/purush-o7)
@@ -219,12 +149,11 @@ I'm always up for a chat about React internals, 3D graphics on the web, or build
 
 ---
 
-<!-- Footer wave -->
 <div align="center">
 
-*"The best way to understand something is to build it, break it, and build it again."*
+*"Most docs tell you what. I care about why."*
 
-⭐ **If you find my projects useful, consider giving them a star!** ⭐
+⭐ **If any of this is useful to you, a star means a lot** ⭐
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer)
 
