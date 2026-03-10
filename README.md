@@ -110,11 +110,10 @@ Built a cloud-based platform on **Azure App Services** enabling real-time connec
 
 <div align="center">
 
-![Purush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=purush-o7&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=purush-o7&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=purush-o7&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purush-o7&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
-
 ---
 
 ## 🌐 Areas of Interest
