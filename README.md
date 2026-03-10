@@ -2,8 +2,8 @@
 
 # Hi, I'm Purushottam Reddy Chinthakuntla 👋
 
-**Associate Software Engineer @ MaTrack.inc (Sieva Networks)**
-Building enterprise-grade systems that handle real money, real users, and real scale.
+**Full-Stack Engineer · ML Enthusiast · Published MR Researcher**
+Building systems at the intersection of production software, applied ML, and immersive tech.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/purush34)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/purush-o7)
@@ -16,13 +16,13 @@ Building enterprise-grade systems that handle real money, real users, and real s
 
 ## 🚀 About Me
 
-I'm a full-stack engineer who ships production systems — not side projects. Currently, I'm building a **multi-tenant, enterprise-grade CRM platform** at MaTrack that handles dealer management, agent workflows, and payment pipelines for hundreds of trailer company users across the US.
+I'm a full-stack engineer with a strong lean toward applied ML and immersive tech. My work spans production backend systems, fine-tuned LLMs for clinical use, deep learning for computer vision, and published Mixed Reality research.
 
-- **+40% operational efficiency** through email/SMS automation, onboarding workflows, and agent portals I architected end-to-end
-- Cut manual communication overhead **60%** by integrating Twilio, SendGrid, and Jupico for automated calling, payment tracking, and installments
-- I've published research on **Mixed Reality for cultural heritage preservation** (ICVR 2025, Wageningen, Netherlands)
-- I fine-tuned **Llama-2-7B** on 3,000 neonatal attributes and built a neonatal care web app that sped up data retrieval by ~35%
-- I think production constraints are the best teacher — every system I build has to handle multi-tenancy, real payments, or real clinical data
+- Fine-tuned **Llama-2-7B** on 3,000 neonatal attributes — improving model accuracy by ~22% and enabling **3× faster** clinical data retrieval via NLP-to-SQL
+- Built and published **KovilLens**, a Mixed Reality app for cultural heritage — accepted at **ICVR 2025**, Wageningen, Netherlands
+- Engineered deep-learning pipelines combining **thermal imaging + RGB analysis** for fruit ripeness detection, reaching **~88% accuracy**
+- Hands-on across the full cloud stack — Azure, GCP, AWS — with real deployment, monitoring, and version control experience
+- I care about systems that actually run in production, handle real data, and solve concrete problems
 
 ---
 
@@ -36,9 +36,9 @@ I'm a full-stack engineer who ships production systems — not side projects. Cu
 
 **Databases:** PostgreSQL · MySQL
 
-**Tools:** VS Code · Linux · Git · Unity · Twilio · SendGrid · Jupico
+**Tools:** VS Code · Linux · Git · Unity · Twilio · SendGrid
 
-**AI/ML:** PyTorch · LLM Fine-tuning · Llama-2-7B · NLP · Prompt Engineering · Azure ML · Similarity-based patient clustering
+**AI/ML:** PyTorch · LLM Fine-tuning · Llama-2-7B · NLP · Prompt Engineering · Azure ML · Similarity-based patient clustering · TensorFlow · OpenCV
 
 ---
 
@@ -62,6 +62,15 @@ Built deep-learning models combining **thermal imaging and RGB image analysis** 
 
 ---
 
+### 🏥 Neonatal Care Web App — Amrita Hospital (Kochi)
+*Dec 2022 – May 2023*
+
+Built an LLM-powered neonatal care application to improve data entry and retrieval speed by **~35%**, reducing manual documentation load for clinicians. Fine-tuned **Llama-2-7B** on ~3,000 neonatal attributes and built a natural-language-to-SQL query layer so clinicians could fetch patient data **3× faster** than manual searches. Implemented similarity-based patient clustering for early diagnosis — identifying at-risk infants **~40% faster**.
+
+**Tech:** Frappe · Llama-2-7B · PyTorch · NLP · Prompt Engineering · LLM Fine-tuning
+
+---
+
 ### 🎵 Music Recording System
 *Dec 2021*
 
@@ -71,23 +80,22 @@ Led a team of four to build a **Windows desktop app** for recording companies �
 
 ---
 
-## 💼 Experience Highlights
+### ☁️ talkToLocals — Azure Cloud Platform
+*May 2022 – Jun 2022*
 
-### Associate Software Engineer — MaTrack.inc *(Mar 2024 – Present, Remote USA)*
-- Led development of an enterprise CRM platform improving operational efficiency by **40%**
-- Architected Twilio/SendGrid/Jupico integrations, cutting manual tasks by **60%**
-- Built a unified dealer-management solution handling contracts, payments, and multi-tenant user management
+Built a cloud-based platform on **Azure App Services** enabling real-time connections between travelers and local guides, improving communication efficiency by **30%** through location-based insights. Integrated **Azure ML** for personalized recommendations and automated traveler–local interactions.
 
-### Software Developer Intern — ICTS, Amrita *(Dec 2022 – May 2023)*
-- Built a neonatal care web app for Amrita Hospital (Kochi) — LLM-powered, **~35% faster** data retrieval
-- Fine-tuned **Llama-2-7B** on 3,000 neonatal attributes, improving model accuracy by ~22%
-- Built NLP-to-SQL query generation enabling clinicians to fetch patient data **3× faster**
-- Implemented similarity-based patient clustering for early diagnosis — **40% faster** identification of at-risk infants
+**Tech:** Azure App Services · Azure ML · Azure Functions · Blob Storage · SQL · Django · REST APIs
 
-### Azure Apprenticeship — Future Ready Talent *(May 2022 – Jun 2022)*
-- Built **talkToLocals**, a cloud-based platform on Azure App Services connecting travelers and local guides
-- Integrated **Azure ML** for personalized recommendations; improved communication efficiency by **30%**
-- Hands-on with App Services, Azure Functions, Blob Storage, SQL, and deployment pipelines
+---
+
+## 💼 Experience
+
+**Associate Software Engineer — MaTrack.inc (Sieva Networks)** *(Mar 2024 – Present, Remote USA)*
+
+**Software Developer Intern — ICTS, Amrita School of Computing** *(Dec 2022 – May 2023, Kollam)*
+
+**Azure Apprenticeship — Future Ready Talent** *(May 2022 – Jun 2022, Virtual)*
 
 ---
 
@@ -117,6 +125,6 @@ Cloud Computing · Full Stack Development · Competitive Programming · Generati
 
 ## 📬 Let's Connect
 
-I'm open to conversations about building production systems, LLM fine-tuning, multi-tenant architectures, or Mixed Reality for real-world applications.
+I'm open to conversations about LLM fine-tuning, clinical NLP, Mixed Reality for real-world applications, or building production systems that solve hard problems.
 
 📧 purush3190@gmail.com · 📞 6300793297
